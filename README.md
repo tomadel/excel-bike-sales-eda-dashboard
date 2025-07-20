@@ -1,8 +1,8 @@
-# 🚲 Bike Sales Dashboard
+Bike Sales Dashboard
 
 This project is a **Bike Sales Dashboard** created using Microsoft Excel. It visually represents customer data and bike purchasing trends using interactive pivot charts and slicers.
 
-## 📊 Dashboard Features
+ Dashboard Features
 
 The dashboard provides insights into bike purchases based on several customer attributes, including:
 
@@ -13,7 +13,7 @@ The dashboard provides insights into bike purchases based on several customer at
 - **Customer Commute Miles**
   - Analyzes bike purchases by customer commute distances.
 
-## 🧩 Interactive Filters
+ Interactive Filters
 
 Users can filter the dashboard data using slicers for:
 - **Marital Status**
